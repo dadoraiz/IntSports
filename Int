@@ -1,0 +1,162 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="AM" tvg-logo="" group-title="Sport",football
+http://91.103.248.82:81/play/c1?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sport",ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Sport;Undefined",CCTV-5体育HD,CCTV中国中央电视台-5 体育
+http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="Sport;Undefined",CCTV-5+体育赛事HD,CCTV中国中央电视台-5+ 体育赛事
+http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="EC" tvg-logo="" group-title="Sport",DIRECTV SPORTS (ECU)
+http://plus-tv.us:8080/live/1899/1899/10883.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="EC" tvg-logo="" group-title="Sport",DIRECTV SPORTS 1 HD
+http://plus-tv.us:8080/live/1899/1899/6595.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JM" tvg-logo="https://i.imgur.com/IsXK52p.jpg" group-title="Sport",SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JM" tvg-logo="https://i.imgur.com/IsXK52p.jpg" group-title="Sport",SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",BEIN SPORTS SD
+http://p5.giffy.be:8080/ARbWRogmkt/bfm28714xE/45034?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Sport",Claro Sports
+http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DEPORTE : ESPN + HD
+http://plus-tv.us:8080/live/1899/1899/11841.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DEPORTE : ESPN 1
+http://plus-tv.us:8080/live/1899/1899/4405.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DEPORTE : ESPN 1 HD SUR
+http://plus-tv.us:8080/live/1899/1899/5070.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DEPORTE : ESPN 2 FHD
+http://plus-tv.us:8080/live/1899/1899/3726.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DEPORTE : ESPN 2 HD
+http://plus-tv.us:8080/live/1899/1899/3721.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DEPORTE : ESPN 3 HD
+http://plus-tv.us:8080/live/1899/1899/3722.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DEPORTE : FOX SPORTS 1 HD
+http://plus-tv.us:8080/live/1899/1899/3725.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DEPORTE : FOX SPORTS 4K
+http://plus-tv.us:8080/live/1899/1899/5119.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DEPORTE : FOX SPORTS MX HD
+http://plus-tv.us:8080/live/1899/1899/9423.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DEPORTE : FOX SPORTS PREMIUM
+http://plus-tv.us:8080/live/1899/1899/3730.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DEPORTE : FOX SPORTS PREMIUM FHD
+http://plus-tv.us:8080/live/1899/1899/5103.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DEPORTE : TNT SPORTS HD
+http://plus-tv.us:8080/live/1899/1899/3734.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN DEPORTES HD
+http://plus-tv.us:8080/live/1899/1899/14643.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Deportes
+http://cdn.miip.tv:8080/canada/123456/531?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Deportes
+http://linux-app.tv:6204/60400655844704/32991126026152/20637?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Us- Fox Deportes
+http://linux-app.tv:6204/15020208413552/24021189856304/20637?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ESPN DEPORTES
+http://cdn.miip.tv:8080/canada/123456/4121?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",XUTV:FOX DEPORTES
+http://cdn.miip.tv:8080/canada/123456/6473?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ESPN 2 LATINO
+http://cdn.miip.tv:8080/canada/123456/3625?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ESPN 3 LATINO
+http://cdn.miip.tv:8080/canada/123456/3628?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ESPN ACC
+http://cdn.miip.tv:8080/canada/123456/4116?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ESPN LATINO
+http://cdn.miip.tv:8080/canada/123456/3624?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ESPN NEWS
+http://cdn.miip.tv:8080/canada/123456/3684?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ESPN PLUS LATINO
+http://cdn.miip.tv:8080/canada/123456/3627?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ESPN SECS
+http://cdn.miip.tv:8080/canada/123456/4118?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ESPN U
+http://cdn.miip.tv:8080/canada/123456/3683?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Ca- FOX SPORTS RACING HD,FOX SPORTS RACING HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33329?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 1 HD
+http://tvpro.millenium-ott.com:25443/MAGN4pK6YKC16/ybQp1hrnyV/31766?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS ARIZONA HD
+http://tvpro.millenium-ott.com:25443/MAGN4pK6YKC16/ybQp1hrnyV/62891?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS CAROLINAS
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/319?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS CAROLINAS HD
+http://tvpro.millenium-ott.com:25443/MAGN4pK6YKC16/ybQp1hrnyV/62890?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS FLORIDA HD
+http://tvpro.millenium-ott.com:25443/MAGN4pK6YKC16/ybQp1hrnyV/62888?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 1
+http://m-iptv.net:6204/95025267076109/65839594001441/33449?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 1
+http://linux-app.tv:6204/60400655844704/32991126026152/33449?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 1
+http://plus-tv.us:8080/live/1899/1899/14653.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 2
+http://plus-tv.us:8080/live/1899/1899/14654.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",US- Fox Sports 1
+http://linux-app.tv:6204/15020208413552/24021189856304/33449?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN
+http://plus-tv.us:8080/live/1899/1899/14649.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 1
+http://m-iptv.net:6204/95025267076109/65839594001441/33437?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 1
+http://linux-app.tv:6204/60400655844704/32991126026152/33437?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 1 HD
+http://tvpro.millenium-ott.com:25443/MAGN4pK6YKC16/ybQp1hrnyV/31765?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2
+http://linux-app.tv:6204/60400655844704/32991126026152/33438?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2
+http://m-iptv.net:6204/95025267076109/65839594001441/33438?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2 HD
+http://tvpro.millenium-ott.com:25443/MAGN4pK6YKC16/ybQp1hrnyV/31805?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN News
+http://linux-app.tv:6204/60400655844704/32991126026152/33441?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN News
+http://plus-tv.us:8080/live/1899/1899/14650.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN News
+http://m-iptv.net:6204/95025267076109/65839594001441/33441?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN PLUS HD
+http://tvpro.millenium-ott.com:25443/MAGN4pK6YKC16/ybQp1hrnyV/67239?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN SEC Network
+http://linux-app.tv:6204/60400655844704/32991126026152/33442?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN SEC Network
+http://m-iptv.net:6204/95025267076109/65839594001441/33442?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN U
+http://plus-tv.us:8080/live/1899/1899/14651.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN USA
+http://cdn.miip.tv:8080/canada/123456/541?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPNU College Sports
+http://linux-app.tv:6204/60400655844704/32991126026152/33443?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPNU College Sports
+http://m-iptv.net:6204/95025267076109/65839594001441/33443?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",US- ESPN 2
+http://linux-app.tv:6204/15020208413552/24021189856304/33438?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",US- ESPN Longhorn Network
+http://linux-app.tv:6204/15020208413552/24021189856304/33440?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",US- ESPN News
+http://linux-app.tv:6204/15020208413552/24021189856304/33441?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",US- ESPN SEC Network
+http://linux-app.tv:6204/15020208413552/24021189856304/33442?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",US- ESPNU College Sports
+http://linux-app.tv:6204/15020208413552/24021189856304/33443?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Fox Soccer Plus
+http://plus-tv.us:8080/live/1899/1899/14655.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DEPORTE : GOL TV ECUADOR
+http://plus-tv.us:8080/live/1899/1899/3732.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",GOL TV
+http://m-iptv.net:6204/95025267076109/65839594001441/33581?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",GOL TV
+http://linux-app.tv:6204/60400655844704/32991126026152/33581?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 1 HD
+http://live.ontarget.live:8080/Amanda1/Amanda1/75844?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 2 HD
+http://live.ontarget.live:8080/Amanda1/Amanda1/75845?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 3 HD
+http://live.ontarget.live:8080/Amanda1/Amanda1/75846?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV+ HD
+http://live.ontarget.live:8080/Amanda1/Amanda1/75843?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eurosport 1 HD
+http://live.ontarget.live:8080/Amanda1/Amanda1/75852?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eurosport 2
+http://live.ontarget.live:8080/Amanda1/Amanda1/75853?checkedby:iptvcat.com
